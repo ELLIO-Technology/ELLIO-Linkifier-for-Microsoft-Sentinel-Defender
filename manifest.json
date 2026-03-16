@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "ELLIO Linkifier for Microsoft Sentinel & Defender",
+  "name": "ELLIO Linkifier for Microsoft Security",
   "version": "1.0.0",
   "description": "Automatically converts ELLIO Threat Intelligence dashboard URLs into clickable links within Microsoft Sentinel and Microsoft Defender portals.",
   "content_scripts": [
